@@ -1,0 +1,17 @@
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\DearlerPlatform.Core.deps.json
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\DearlerPlatform.Core.runtimeconfig.json
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\DearlerPlatform.Core.dll
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\ref\DearlerPlatform.Core.dll
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\DearlerPlatform.Core.pdb
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.csproj.AssemblyReference.cache
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.AssemblyInfoInputs.cache
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.AssemblyInfo.cs
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.csproj.CoreCompileInputs.cache
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.dll
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\ref\DearlerPlatform.Core.dll
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.pdb
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.genruntimeconfig.cache
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\DearlerPlatform.Domain.dll
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\bin\Debug\net6.0\DearlerPlatform.Domain.pdb
+F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Core\obj\Debug\net6.0\DearlerPlatform.Core.csproj.CopyComplete

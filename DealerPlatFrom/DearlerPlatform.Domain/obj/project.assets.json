@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+      "projectUniqueName": "d:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
       "projectName": "DearlerPlatform.Domain",
-      "projectPath": "F:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+      "projectPath": "d:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\obj\\",
+      "outputPath": "d:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COeQF9tUEdKDENE+Supis032XULq5ZaQ7tPzXa6mGcF1/6B71ohcqyrrDg1SiQ3bOjGgLXsyB9tfWArdYnx/7w==",
+  "dgSpecHash": "yF9dvh5LLYUHbw1WX+GQM/uw/XhQlI5hXjyGiz62kirj39TdUTFIzntNWA5mWd7TJD5Q1Avs/Ss+b3tGZszp3Q==",
   "success": true,
-  "projectFilePath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj",
+  "projectFilePath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

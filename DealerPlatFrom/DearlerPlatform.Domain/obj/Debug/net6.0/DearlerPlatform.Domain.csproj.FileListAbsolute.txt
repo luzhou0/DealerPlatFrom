@@ -10,3 +10,15 @@ f:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\Dea
 f:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.dll
 f:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net6.0\ref\DearlerPlatform.Domain.dll
 f:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.pdb
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.csproj.AssemblyReference.cache
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.AssemblyInfoInputs.cache
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.AssemblyInfo.cs
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\ref\DearlerPlatform.Domain.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\obj\Debug\net6.0\DearlerPlatform.Domain.pdb
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\bin\Debug\net6.0\DearlerPlatform.Domain.deps.json
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\bin\Debug\net6.0\DearlerPlatform.Domain.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\bin\Debug\net6.0\ref\DearlerPlatform.Domain.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Domain\bin\Debug\net6.0\DearlerPlatform.Domain.pdb

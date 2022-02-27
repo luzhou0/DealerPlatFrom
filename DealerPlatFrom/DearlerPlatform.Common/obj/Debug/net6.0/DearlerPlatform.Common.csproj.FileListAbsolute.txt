@@ -10,3 +10,15 @@ F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\Dea
 F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.dll
 F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net6.0\ref\DearlerPlatform.Common.dll
 F:\朝夕全栈课程2期学习\20211208(经销商第二期)\DearlerPlatform\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.pdb
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\bin\Debug\net6.0\DearlerPlatform.Common.deps.json
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\bin\Debug\net6.0\DearlerPlatform.Common.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\bin\Debug\net6.0\ref\DearlerPlatform.Common.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\bin\Debug\net6.0\DearlerPlatform.Common.pdb
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.csproj.AssemblyReference.cache
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.AssemblyInfoInputs.cache
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.AssemblyInfo.cs
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\ref\DearlerPlatform.Common.dll
+D:\Users\Administrator\Documents\GitHub\经销商\DealerPlatFrom\DearlerPlatform.Common\obj\Debug\net6.0\DearlerPlatform.Common.pdb

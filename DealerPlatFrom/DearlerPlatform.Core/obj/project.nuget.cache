@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kwg9ESYcYz39aBRptngQpE9vcy/omIaRLHG4Q4m4HOGzfd+tZKKcD/dd3UCJZTCWKSZKJwVWJyCuOX2NBubNWw==",
+  "dgSpecHash": "5gMcheyk8K5YiDQxDf9k6AegXoEY5kY+Zw2V/ADojkhTHDVZGHjM7vjz/mB38ENvfHOftJTVxCrCf9nJHup/Rg==",
   "success": true,
-  "projectFilePath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+  "projectFilePath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj": {}
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj": {}
   },
   "projects": {
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
+        "projectUniqueName": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
         "projectName": "DearlerPlatform.Common",
-        "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
+        "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\obj\\",
+        "outputPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+        "projectUniqueName": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
         "projectName": "DearlerPlatform.Core",
-        "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
+        "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\obj\\",
+        "outputPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+        "projectUniqueName": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
         "projectName": "DearlerPlatform.Domain",
-        "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
+        "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\obj\\",
+        "outputPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,14 +202,14 @@
         }
       }
     },
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj": {
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj",
+        "projectUniqueName": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj",
         "projectName": "DearlerPlatform.Extensions",
-        "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj",
+        "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Extensions\\obj\\",
+        "outputPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -230,8 +230,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
               }
             }
           }
@@ -282,14 +282,14 @@
         }
       }
     },
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj": {
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj",
+        "projectUniqueName": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj",
         "projectName": "DearlerPlatform.Service",
-        "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj",
+        "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\obj\\",
+        "outputPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -310,14 +310,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj"
               },
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
               },
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
               }
             }
           }
@@ -364,14 +364,14 @@
         }
       }
     },
-    "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj": {
+    "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj",
+        "projectUniqueName": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj",
         "projectName": "DearlerPlatform.Web",
-        "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj",
+        "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Web\\DearlerPlatform.Web.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Web\\obj\\",
+        "outputPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -392,20 +392,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj"
               },
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Core\\DearlerPlatform.Core.csproj"
               },
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Domain\\DearlerPlatform.Domain.csproj"
               },
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Extensions\\DearlerPlatform.Extensions.csproj"
               },
-              "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj": {
-                "projectPath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj"
+              "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj": {
+                "projectPath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj"
               }
             }
           }

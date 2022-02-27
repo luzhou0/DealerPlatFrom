@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5LMMF9XFIiCkGAcI9HnvPV9C8Ob5mzYrB+uv9r3JfCqDz/KP2VTjF5MJIYGEZmdLzG/8fzz9bZ763M7wCov5Qg==",
+  "dgSpecHash": "SZhIOGZd+XriXWhfdH3iGnonoWSzcZ7YcMxCXzfv/d2E5cmPvXZQO5WGeeY0+HOqtZW1bZuurNdfMPRmimFSHA==",
   "success": true,
-  "projectFilePath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj",
+  "projectFilePath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Service\\DearlerPlatform.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

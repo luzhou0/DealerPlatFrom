@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/JQJxgqPJd/BUlYrikTKkqC7jzDI9vmzMW0EMNSeZVls5QgHvNftp0ICGlyJeSqNdWjynixYkdwVJHunI7Zx/A==",
+  "dgSpecHash": "mI2tW7zDRndndwOdZWBnb+NGNcWo2ScAsxFSd0tE++sUiGFWy4aGld6TeWJCV/RwNATBP+MoVPHHM7Vu4lcGTA==",
   "success": true,
-  "projectFilePath": "f:\\朝夕全栈课程2期学习\\20211208(经销商第二期)\\DearlerPlatform\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
+  "projectFilePath": "D:\\Users\\Administrator\\Documents\\GitHub\\经销商\\DealerPlatFrom\\DearlerPlatform.Common\\DearlerPlatform.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

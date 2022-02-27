@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<ItemGroup>
+		<ProjectReference Include="..\DearlerPlatform.Core\DearlerPlatform.Core.csproj"/>
+		<ProjectReference Include="..\DearlerPlatform.Domain\DearlerPlatform.Domain.csproj"/>
+		<ProjectReference Include="..\DearlerPlatform.Common\DearlerPlatform.Common.csproj"/>
+	</ItemGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="10.1.1"/>
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1"/>
+		<PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.15"/>
+	</ItemGroup>
+</Project>
